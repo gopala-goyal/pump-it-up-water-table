@@ -8,8 +8,8 @@ Dataset is uploaded on the following links:
 
 ## Languages & Modelling Techniques (WIP)
 - Python
-- Logistic Regression - to model and train the dataset
-- Principal Component Analysis - To reduce the dimensions of the independent variables
+- Random Forest? - to model and train the dataset
+- Principal Component Analysis? - To reduce the dimensions of the independent variables
 - (Optional) - Regularization Techniques - LASSO/Ridge regression - to help in variable selection
 
 # Contributing
